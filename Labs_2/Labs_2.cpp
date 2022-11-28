@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//I've used raw edit!!
+
 void checkValidInput() {//checking for valid input
     if (cin.fail()) {
         throw "Incorrect input";
